@@ -56,6 +56,10 @@
 
 - [《推荐系统实践》](https://github.com/superheze/programming-books/blob/main/RecommendationSystem/推荐系统实践.pdf)
 
+## Mysql
+
+- [《MySQL必知必会》](https://github.com/superheze/programming-books/blob/main/Linux/MySQL必知必会.pdf)
+
 ## Other
 
 - [《人类简史：从动物到上帝》](https://github.com/superheze/programming-books/blob/main/Other/人类简史：从动物到上帝.pdf)
@@ -64,3 +68,4 @@
 ## License
 
 MIT License
+
