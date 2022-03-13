@@ -39,6 +39,7 @@
 
 - [《深度学习-(伊恩·古德费洛)》](https://github.com/superheze/programming-books/blob/main/Tensorflow/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%5B%E7%BE%8E%5DIan%20Goodfellow%EF%BC%88%E4%BC%8A%E6%81%A9%C2%B7%E5%8F%A4%E5%BE%B7%E8%B4%B9%E6%B4%9B%EF%BC%89.pdf)
 - [《深度学习》](https://github.com/superheze/programming-books/blob/main/Tensorflow/深度学习.pdf)
+- [《深度学习之TensorFlow工程化项目实战》](https://github.com/superheze/programming-books/blob/main/Tensorflow/深度学习之TensorFlow工程化项目实战.pdf)
 
 ## Keras
 
