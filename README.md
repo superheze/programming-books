@@ -30,6 +30,8 @@
 - [《计算机程序设计艺术(第三卷)》](https://github.com/superheze/programming-books/blob/main/SoftwareDesign/计算机程序设计艺术(第三卷).pdf)
 - [《编程珠玑》](https://github.com/superheze/programming-books/blob/main/SoftwareDesign/编程珠玑.pdf)
 - [《Zookeeper分布式过程》](https://github.com/superheze/programming-books/blob/main/SoftwareDesign/Zookeeper分布式过程.pdf)
+- [《分布式系统概念与设计》](https://github.com/superheze/programming-books/blob/main/SoftwareDesign/分布式系统概念与设计.pdf)
+- [《大型网站服务器容量规划》](https://github.com/superheze/programming-books/blob/main/SoftwareDesign/大型网站服务器容量规划.pdf)
 
 ## DeepLearning
 
