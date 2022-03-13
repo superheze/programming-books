@@ -52,6 +52,7 @@
 
 - [《keras中文手册》](https://github.com/superheze/programming-books/blob/main/Keras/keras中文手册.pdf)
 - [《Keras深度学习实战》](https://github.com/superheze/programming-books/blob/main/Keras/Keras深度学习实战.pdf)
+- [《Kafka权威指南》](https://github.com/superheze/programming-books/blob/main/Keras/Kafka权威指南.pdf)
 
 ## RecommendationSystem
 
