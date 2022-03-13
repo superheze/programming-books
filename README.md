@@ -32,6 +32,7 @@
 - [《Zookeeper分布式过程》](https://github.com/superheze/programming-books/blob/main/SoftwareDesign/Zookeeper分布式过程.pdf)
 - [《分布式系统概念与设计》](https://github.com/superheze/programming-books/blob/main/SoftwareDesign/分布式系统概念与设计.pdf)
 - [《大型网站服务器容量规划》](https://github.com/superheze/programming-books/blob/main/SoftwareDesign/大型网站服务器容量规划.pdf)
+- [《NACOS架构与原理》](https://github.com/superheze/programming-books/blob/main/SoftwareDesign/NACOS架构与原理.pdf)
 
 ## Linux
 
