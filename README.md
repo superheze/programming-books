@@ -59,6 +59,7 @@
 ## Mysql
 
 - [《MySQL必知必会》](https://github.com/superheze/programming-books/blob/main/Linux/MySQL必知必会.pdf)
+- [《大话存储》](https://github.com/superheze/programming-books/blob/main/Linux/大话存储.pdf)
 
 ## Other
 
