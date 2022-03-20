@@ -43,6 +43,7 @@
 - [《深度学习-(伊恩·古德费洛)》](https://github.com/superheze/programming-books/blob/main/DeepLearning/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%5B%E7%BE%8E%5DIan%20Goodfellow%EF%BC%88%E4%BC%8A%E6%81%A9%C2%B7%E5%8F%A4%E5%BE%B7%E8%B4%B9%E6%B4%9B%EF%BC%89.pdf)
 - [《深度学习》](https://github.com/superheze/programming-books/blob/main/DeepLearning/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
 - [《Neural Networks and Deep Learning-中文版》](https://github.com/superheze/programming-books/blob/main/DeepLearning/Neural%20Networks%20and%20Deep%20Learning-%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+- [《强化学习在阿里的技术演进与业务创新》](https://github.com/superheze/programming-books/blob/main/DeepLearning/强化学习在阿里的技术演进与业务创新.pdf)
 
 ## Tensorflow
 
