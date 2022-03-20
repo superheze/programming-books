@@ -33,7 +33,7 @@
 - [《分布式系统概念与设计》](https://github.com/superheze/programming-books/blob/main/SoftwareDesign/分布式系统概念与设计.pdf)
 - [《大型网站服务器容量规划》](https://github.com/superheze/programming-books/blob/main/SoftwareDesign/大型网站服务器容量规划.pdf)
 - [《NACOS架构与原理》](https://github.com/superheze/programming-books/blob/main/SoftwareDesign/NACOS架构与原理.pdf)
-- [《大象-Thinking.in.UML（第二版）》](https://github.com/superheze/programming-books/blob/main/SoftwareDesign/https://github.com/superheze/programming-books/blob/main/SoftwareDesign/%E5%A4%A7%E8%B1%A1-Thinking.in.UML%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
+- [《大象-Thinking.in.UML（第二版）》](https://github.com/superheze/programming-books/blob/main/SoftwareDesign/%E5%A4%A7%E8%B1%A1-Thinking.in.UML%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
 
 ## Linux
 
