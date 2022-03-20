@@ -52,7 +52,6 @@
 
 - [《keras中文手册》](https://github.com/superheze/programming-books/blob/main/Keras/keras中文手册.pdf)
 - [《Keras深度学习实战》](https://github.com/superheze/programming-books/blob/main/Keras/Keras深度学习实战.pdf)
-- [《Kafka权威指南》](https://github.com/superheze/programming-books/blob/main/Keras/Kafka权威指南.pdf)
 
 ## RecommendationSystem
 
@@ -62,6 +61,10 @@
 
 - [《MySQL必知必会》](https://github.com/superheze/programming-books/blob/main/Mysql/MySQL必知必会.pdf)
 - [《大话存储》](https://github.com/superheze/programming-books/blob/main/Mysql/大话存储.pdf)
+
+## Kafka
+
+- [《Kafka权威指南》](https://github.com/superheze/programming-books/blob/main/Kafka/Kafka权威指南.pdf)
 
 ## Other
 
