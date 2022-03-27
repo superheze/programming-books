@@ -2,3 +2,7 @@ Tensorflow/深度学习之TensorFlow工程化项目实战.pdf filter=lfs diff=lf
 SoftwareDesign/分布式系统概念与设计.pdf filter=lfs diff=lfs merge=lfs -text
 SoftwareDesign/大型网站服务器容量规划.pdf filter=lfs diff=lfs merge=lfs -text
 Kafka/Kafka权威指南.pdf filter=lfs diff=lfs merge=lfs -text
+Lua/Cocos2d-x实战_Lua卷[[:space:]]_关东升.pdf filter=lfs diff=lfs merge=lfs -text
+Lua/Lua设计与实现.pdf filter=lfs diff=lfs merge=lfs -text
+Lua/Lua程序设计（第4版）.pdf filter=lfs diff=lfs merge=lfs -text
+Lua/自己动手实现Lua：虚拟机、编译器和标准库.pdf filter=lfs diff=lfs merge=lfs -text
