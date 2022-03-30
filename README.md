@@ -23,6 +23,14 @@
 - [《go rpc开发指南》](https://github.com/superheze/programming-books/blob/main/Go/go%20rpc%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.pdf)
 - [《学习Go语言》](https://github.com/superheze/programming-books/blob/main/Go/学习Go语言.pdf)
 
+## Lua
+
+- [《Cocos2d-x实战_Lua卷 _关东升》](https://github.com/superheze/programming-books/blob/main/Lua/Cocos2d-x%E5%AE%9E%E6%88%98_Lua%E5%8D%B7%20_%E5%85%B3%E4%B8%9C%E5%8D%87.pdf)
+- [《LUA中文参考》](https://github.com/superheze/programming-books/blob/main/Lua/LUA%E4%B8%AD%E6%96%87%E5%8F%82%E8%80%83.pdf)
+- [《Lua程序设计（第4版）》](https://github.com/superheze/programming-books/blob/main/Lua/Lua%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%EF%BC%88%E7%AC%AC4%E7%89%88%EF%BC%89.pdf)
+- [《Lua设计与实现》](https://github.com/superheze/programming-books/blob/main/Lua/Lua%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)
+- [《自己动手实现Lua：虚拟机、编译器和标准库》](https://github.com/superheze/programming-books/blob/main/Lua/%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E5%AE%9E%E7%8E%B0Lua%EF%BC%9A%E8%99%9A%E6%8B%9F%E6%9C%BA%E3%80%81%E7%BC%96%E8%AF%91%E5%99%A8%E5%92%8C%E6%A0%87%E5%87%86%E5%BA%93.pdf)
+
 ## SoftwareDesign
 
 - [《计算机程序设计艺术(第一卷)》](https://github.com/superheze/programming-books/blob/main/SoftwareDesign/计算机程序设计艺术(第一卷).pdf)
